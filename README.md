@@ -1,5 +1,7 @@
 # vue-router
 
+A simple Vue.js app that uses Vue Router
+
 ## Project setup
 ```
 npm install
